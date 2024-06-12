@@ -42,7 +42,7 @@
     "@remirror/react": "^2.0.28",
     "@remirror/react-components": "^2.1.12",
     "@remirror/react-editors": "^1.0.33",
-    "@sentry/react": "^7.50.0",
+    "@sentry/react": "^7.116.0",
     "@types/yup": "^0.32.0",
     "@vulpemventures/secp256k1-zkp": "^3.2.1",
     "bech32": "^2.0.0",
